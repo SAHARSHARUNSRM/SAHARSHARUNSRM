@@ -42,9 +42,10 @@
 
 ## 📌 Featured Projects  
 
-- 🎯 **[CO PO Attainment Calculator](#)** – Web app for automatic computation of CO–PO attainment (HTML, CSS, JS, Flask).  
-- 🎮 **[StreamMingle](#)** – Twitch hackathon project for interactive online collaboration.  
-- 🤖 **[Cerebalance](#)** – Mental health chatbot built using Python + Streamlit.  
+- 🎯 **[CO–PO Attainment Calculator](https://github.com/SAHARSHARUNSRM/18th-Regulation-CO-PO-Calculator)** – Web app for automatic and accurate computation of CO–PO attainment (**HTML, CSS, JS, Flask**).  
+- 🎮 **[StreamMingle](https://github.com/SAHARSHARUNSRM/Twitch)** – Twitch hackathon project enabling interactive online collaboration.  
+- 🤖 **[Cerebalance](https://github.com/SAHARSHARUNSRM/Cerebalance)** – Mental health chatbot designed using **Python + Streamlit**.  
+- 🏥 **[MedFam](https://github.com/dinsh06/MedFam-REACT-NATIVE-)** – Healthcare mobile application developed with **React Native**.  
 
 
 ---
